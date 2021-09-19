@@ -11,6 +11,14 @@ A simple yet useful tool, to maintain a guided work flow. The project has two ro
 ![To-Day list Screenshot](https://github.com/khyatigupta369/TodoLIst/blob/main/ScreenShots/Screenshot%202021-09-20%20at%2012.25.32%20AM.png)
 ![Work list Screenshot](https://github.com/khyatigupta369/TodoLIst/blob/main/ScreenShots/Screenshot%202021-09-20%20at%2012.26.27%20AM.png)
 
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run dev
+```
   
 ## Acknowledgements
 

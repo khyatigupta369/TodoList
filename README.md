@@ -15,10 +15,3 @@ A simple yet useful tool, to maintain a guided work flow. The project has two ro
 ## Acknowledgements
 
  - [Angela Yu ](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
- 
-  
-## Demo
-
-Insert gif or link to demo
-
-  

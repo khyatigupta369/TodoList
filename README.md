@@ -18,9 +18,9 @@ I learned to use EJS as a templating engine, how to work with module, exporting 
 ![To-Day list Screenshot](https://github.com/khyatigupta369/TodoLIst/blob/main/ScreenShots/Screenshot%202021-09-20%20at%2012.25.32%20AM.png)
 ![Work list Screenshot](https://github.com/khyatigupta369/TodoLIst/blob/main/ScreenShots/Screenshot%202021-09-20%20at%2012.26.27%20AM.png)
 
-## Deployment
+## Run
 
-To deploy this project run
+Run the following command
 
 ```bash
   npm run dev

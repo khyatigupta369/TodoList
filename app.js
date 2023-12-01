@@ -11,7 +11,6 @@ app.use(express.static('public'));
 app.set("views", "views");
 app.set("view engine", "ejs");
 
-
 app.get("/", (req, res) => {
   res.render("list", { listTitle: date.getDate(), items: items });
 });
@@ -30,10 +29,6 @@ app.post("/", (req, res) => {
 
 app.get('/work',(req,res)=>{
   res.render('list',{ listTitle: "work", items: workItems });
-});
-
-app.get('/about',(req,res)=>{
-  res.render('about');
 });
 
 app.listen(8000, () => {
